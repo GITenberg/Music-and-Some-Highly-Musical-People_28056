@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33108
     wikipedia: http://en.wikipedia.org/wiki/James_Monroe_Trotter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28056#Music-and-Some-Highly-Musical-People
 gutenberg_bookshelf: Music
 gutenberg_issued: '2009-02-12'
 gutenberg_type: Text
